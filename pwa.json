@@ -1,0 +1,37 @@
+{
+	"questions": {
+		"q1": {
+			"active": true,
+			"text": "When was the last time you downloaded an app?",
+			"answers": {
+				"a1": {
+					"text": "Within the last week"
+				},
+				"a2": {
+					"text": "Within the last month"
+				},
+				"a3": {
+					"text": "Witin the last year"
+				},
+				"a4": {
+					"text": "Don't remember"
+				}
+			}
+		},
+		"q2": {
+			"active": false,
+			"text": "What is the average size of the apps you have downloaded?",
+			"answers": {
+				"a1": {
+					"text": "300MB"
+				},
+				"a2": {
+					"text": "10MB"
+				},
+				"a3": {
+					"text": "20KB"
+				}
+			}
+		}
+	}
+}

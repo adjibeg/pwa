@@ -1,0 +1,22 @@
+.radio {
+  position: relative;
+  padding: .5em 0;
+}
+.radio input {
+  display: none;
+}
+
+.radio label {
+  margin-left: 1em;
+}
+
+.radio div {
+  background-color: red;
+  position: absolute;
+  transition: 0.2s ease;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 25%;
+  z-index: -1;
+}
